@@ -45,7 +45,8 @@ Create a MySQL database named sqldata1
 
 ![image](https://github.com/RupaliWaghamare/SQL-projects/assets/81416028/d2175a8f-3468-4147-b62a-8375600bf39d)
 
-![image](https://github.com/RupaliWaghamare/SQL-projects/assets/81416028/9f0e07e9-85f3-4215-b790-88af5d87fec7)
+
+
 
 
 
