@@ -1,5 +1,5 @@
-# SQL-projects
-SQL projects
+# SQL-project
+
 ![image](https://github.com/RupaliWaghamare/SQL-projects/assets/81416028/c06b1b35-ba1d-445d-9256-0cf34a3a4518)
 
 Olympics Data Analysis with SQL
